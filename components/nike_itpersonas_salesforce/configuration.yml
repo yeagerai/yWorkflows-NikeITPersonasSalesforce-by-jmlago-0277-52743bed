@@ -1,0 +1,8 @@
+description: This Yeager Component takes a NikeITPersonasInput model with a list of
+  URLs or APIs that contain the information about Nike employees in the IT department
+  as input. It then processes the input and saves the names and emails of the employees
+  into the Salesforce API. After saving the data, it returns a NikeITPersonasOutput
+  model containing a list of dictionaries with the names and emails of Nike employees
+  in the IT department and the response from the Salesforce API.
+name: NikeITPersonasSalesforce
+parameters: {}
